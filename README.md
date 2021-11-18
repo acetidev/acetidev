@@ -3,7 +3,7 @@
 <h2>BIO<h2/>
   <ul>
     <li>📖 Studying daily to achieve my goals</li><br>
-    <li>🎉 Techs that i know: HTML, CSS and Vanilla JavaScript</li><br>
+    <li>🎉 Techs that i know: HTML, CSS and JavaScript</li><br>
     <li>🤩 Studying now: PHP 7</li><br>
     <li>🔭 Techs that i want to learn: Node.JS, MongoDB, React ...</li><br>
     <li>💻 For now, i work at Uber 😥</li><br>

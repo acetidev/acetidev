@@ -5,7 +5,7 @@
     <li>📖 Studying daily to achieve my goals</li><br>
     <li>🎉 Techs that i know: HTML, CSS and JavaScript</li><br>
     <li>🤩 Studying now: PHP 7</li><br>
-    <li>🔭 Techs that i want to learn: Node.JS, MongoDB, React ...</li><br>
+    <li>🔭 Techs that i want to learn: Node.JS, MongoDB, React, Python ...</li><br>
     <li>💻 For now, i work at Uber 😥</li><br>
     <li>💼 Hoping that soon i'll be working as a Web Developer</li><br>
     <li>🔨 Always doing small projects to learn and consolidate new things</li><br>
